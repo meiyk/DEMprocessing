@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Parameters>
+    <InputFile>/home/myk/Downloads/GF7_Mosaic.tif</InputFile>
+    <OutputFile>/home/myk/Downloads/output_refined.tif</OutputFile>
+    <SlopeTh>15.0</SlopeTh>
+    <ReliefTh>50.0</ReliefTh>
+    <WindowSize>5</WindowSize>
+    
+    <InvalidValue>-9999</InvalidValue>
+</Parameters>
